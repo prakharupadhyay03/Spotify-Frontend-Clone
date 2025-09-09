@@ -1,4 +1,9 @@
 {
     "title": "Guru's Greatest",
-    "description": "Guru Randhwa"
+    "description": "Guru Randhwa",
+     "songs": [
+        "Azul.mp3",
+         "High Rated Gabru.mp3"
+    ]
+
 }
